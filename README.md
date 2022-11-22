@@ -10,6 +10,15 @@
 - [Reviews](https://cynar2k.github.io/links/#reviews)
 - [Websites](https://cynar2k.github.io/links/#websites)
 
+<details>
+
+<summary>title</summary>
+<br>
+
+content goes here
+
+</details>
+
 
 ## Guides
 

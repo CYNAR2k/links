@@ -70,58 +70,100 @@
 
  <ul>
     <li><a href="https://www.7-zip.org/">7-ZIP - A file archiver, better than winrar</a></li>
+   
     <li><a href="https://geekuninstaller.com/">Geek Uninstaller - it's better than the windows one</li>
+      
     <li><a href="https://www.snappy-driver-installer.org/">Snappy Driver Installer Origin - Get all your pc drivers</li>
+      
     <li><a href="https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html">VMWARE WORKSTATION 16 PRO</li> `KEY: ZF3R0-FHED2-M80TY-8QYGC-NPKYF`
+      
     <li><a href="https://github.com/Open-Shell/Open-Shell-Menu">OpenShell - Open Source Windows Start Menu Replace</li>
+      
     <li><a href="https://www.startisback.com/">StartIsBack - Windows Start Menu Replace</li>
+      
     <li><a href="https://www.nirsoft.net/utils/registry_changes_view.html/">REGISTRY CHANGES VIEW - View registry modifications</a></li>
+   
     <li><a href="https://www.voidtools.com/">EVERYTHING - Windows search replace</li>
+      
     <li><a href="https://forums.guru3d.com/threads/nvslimmer-nvidia-driver-slimming-utility.423072/">NVSLIMMER - Debloat Nvidia Drivers</li>
+      
     <li><a href="https://www.techpowerup.com/download/techpowerup-nvcleanstall">NVCLEANSTALL - Debloat Nvidia Drivers</a></li>
+   
     <li><a href="https://winaero.com/">WIN AERO - Basic application to tweak windows</li>
+      
     <li><a href="https://github.com/M2Team/NSudo">NSUDO - System Administration Toolkit</a></li>
+   
     <li><a href="https://www.sordum.org/9416/powerrun-v1-4-run-with-highest-privileges/">POWER RUN - System Administration Toolkit</li>
+      
     <li><a href="https://notepad-plus-plus.org/downloads/">NOTEPAD++ - Better than windows stock notepad</li>
+      
     <li><a href="https://forums.guru3d.com/threads/windows-power-plan-settings-explorer-utility.416058/">POWER SETTINGS EXPLORER - See all power plan settings</a></li>
+   
     <li><a href="https://www.wagnardsoft.com/display-driver-uninstaller-ddu-">DISPLAY DRIVER UNINSTALLER</a></li>
+   
     <li><a href="https://www.qbittorrent.org/download.php">qBITTORRENT</a></li>
+   
     <li><a href="https://www.libreoffice.org/">LIBREOFFICE</li>
+      
     <li><a href="https://parsec.app/">PARSEC -  Remote desktop</li>
+      
+    <li><a href="https://rustdesk.com/">RUST DESK - Open source remote desktop</li>
+      
     <li><a href="https://www.workspacer.org/">WORKSPACER - A tiling window manager for Windows 10</li>
+      
     <li><a href="https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns">AUTORUNS - Startup monitor</li>
+      
     <li><a href="https://ninite.com/">NINITE - Install and Update All Your Programs at Once</li>
+      
     <li><a href="https://github.com/abbodi1406/vcredist">VISUAL C++ - All-in-One</li>
+      
     <li><a href="https://github.com/Codeusa/SteamCleaner">STEAM CLEANER</li>
+      
     <li><a href="https://www.majorgeeks.com/files/details/easybcd.html">EASY BCD - Manage your boot loader</li>
+      
     <li><a href="https://dmde.com/">DMDE - Disk recovery utility</li>
+      
     <li><a href="https://www.sordum.org/8478/reg-converter-v1-2/">REG CONVERTER - Convert reg files to bat or vbs</li>
+      
     <li><a href="https://gitlab.com/CalcProgrammer1/OpenRGB">OPEN RGB - lighting control that doesn't depend on manufacturer software</a></li>
+   
     <li><a href="https://mechvibes.com/">MECH VIBES - Change the sound of your keyboard into anything</li>
+      
     <li><a href="https://www.codesector.com/teracopy">TERA COPY - Copy your files faster and more securely</li>
+      
+    <li><a href="https://dban.org/">DBAN - Free Open-Source Data Wiping</li>
+      
+    <li><a href="https://www.uwe-sieber.de/usbtreeview_e.html">USB TREE VIEW</li>
+      
+    <li><a href="https://github.com/henrypp/simplewall">SIMPLEWALL - Simple tool to configure Windows Filtering Platform which can configure network activity on your computer.</li>
+      
+    <li><a href="https://github.com/demberto/EzUnlock">EZ UNLOCK - An open source alternative to and inspired by IOBit Unlocker</li>
+      
+    <li><a href="https://github.com/iXab3r/MicSwitch">MIC SWITCH - Tool which allows you to mute/unmute using a predefined system-wide hotkey</li>
+      
+    <li><a href="https://th-ch.github.io/youtube-music/">YouTube Music Desktop App with built-in ad blocker and downloader</li>
+      
+    <li><a href="https://github.com/martinet101/WingetUI">WIN GET UI- A package manager for Winget and Scoop</li>
+      
+    <li><a href="https://github.com/yt-dlp/yt-dlp">YT DLP - Download videos from YouTube</li>
+      
+    <li><a href="https://github.com/Shabinder/SpotiFlyer">SPOTI FLYER - Music Downloader ,supports Spotify, Youtube, Gaana, Jio-Saavn and SoundCloud</li>
+      
+    <li><a href="https://www.winreducer.net/">WIN REDUCER - Customize and create your own Windows image</li>
+      
+    <li><a href="https://www.ntlite.com/">NTLITE - Customize and create your own Windows image</li>
+      
     <li><a href=""></li>
+      
     <li><a href=""></li>
-    
+      
+    <li><a href=""></li>
+
   </ul>
 
 
 </details>
 
-
-## Programs
-
-- [WinReducer](https://www.winreducer.net/)
-- [dban](https://dban.org/)
-- [USB TREE VIEW](https://www.uwe-sieber.de/usbtreeview_e.html)
-- [Simplewall](https://github.com/henrypp/simplewall)
-- [An open source alternative to and inspired by IOBit Unlocker](https://github.com/demberto/EzUnlock)
-- [Convert reg files to batch](https://www.majorgeeks.com/files/details/reg_converter.html)
-- [Tool which allows you to mute/unmute](https://github.com/iXab3r/MicSwitch)
-- [Open source remote desktop](https://rustdesk.com/)
-- [Custom YouTube Music Desktop App](https://th-ch.github.io/youtube-music/)
-- [A package manager for Winget and Scoop](https://github.com/martinet101/WingetUI) 
-- [Download videos from YouTube](https://github.com/yt-dlp/yt-dlp)
-- [Music Downloader ,supports Spotify, Youtube, Gaana, Jio-Saavn and SoundCloud](https://github.com/Shabinder/SpotiFlyer)
 
 <details>
 

@@ -65,6 +65,40 @@
 </ul>  
  
   </details>
+  
+  
+  
+<details>
+
+<summary>Programs</summary>
+<br>
+
+ <ul>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    
+  </ul>
+
+
+</details>
 
 
 ## Programs
@@ -143,6 +177,40 @@
 - [Prime95](https://prime95.en.lo4d.com/windows)
 - [CS:GO Benchmark](https://github.com/samisalreadytaken/csgo-benchmark)
 
+
+<details>
+
+<summary>Reviews</summary>
+<br>
+
+ <ul>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    
+  </ul>
+
+
+</details>
+
+
 # Reviews
 
 - [Reviews and Ratings](https://www.rtings.com/)
@@ -158,6 +226,38 @@
 - [Gamer Nexus](https://www.gamersnexus.net/)
 - [Blur Busters](https://blurbusters.com/)
 - [PSU TIER LIST](https://cultists.network/140/psu-tier-list/)
+
+<details>
+
+<summary>Websites</summary>
+<br>
+
+ <ul>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    
+  </ul>
+
+
+</details>
 
 ## Websites
 

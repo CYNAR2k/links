@@ -3,7 +3,6 @@
 </p>
 
 ## Table Of Contents
-- [Guides](https://cynar2k.github.io/links/#guides)
 - [Windows](https://cynar2k.github.io/links/#windows)
 - [Programs](https://cynar2k.github.io/links/#programs)
 - [Benchmarks-etc](https://cynar2k.github.io/links/#benchmarks-etc)
@@ -12,7 +11,7 @@
 
 <details>
 
-<summary>Guides</summary>
+<summary>**Guides**</summary>
 <br>
 
 <ul>

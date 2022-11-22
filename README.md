@@ -19,7 +19,7 @@
     <li><a href="https://github.com/amitxv/EVA">EVA - Windows oriented performance, privacy and latency tuning guide</a></li>
     <li><a href="https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4">Latency Guide by Calypto</a></li>
     <li><a href="https://docs.google.com/document/d/14ma-_Os3rNzio85yBemD-YSpF_1z75mZJz1UdzmW8GE">Google</a></li>
-    <li><a href="https://www.google.com/](https://docs.google.com/document/d/14ma-_Os3rNzio85yBemD-YSpF_1z75mZJz1UdzmW8GE">Nvidia GPU Overclock Guide by Cancerogeno</a></li>
+    <li><a href="https://docs.google.com/document/d/14ma-_Os3rNzio85yBemD-YSpF_1z75mZJz1UdzmW8GE">Nvidia GPU Overclock Guide by Cancerogeno</a></li>
     <li><a href="https://blurbusters.com/gsync/gsync101-input-lag-tests-and-settings/">Guide about G-SYNC</a></li>
     <li><a href="https://docs.google.com/document/d/1sZ8ctpR3azpD9GqYz1KXbdCBjJ31eNCY0G4GT3u3sKI">Keb's Windows 7 UEFI Only install guide</a></li>
     <li><a href="https://github.com/integralfx/MemTestHelper/blob/oc-guide/DDR4%20OC%20Guide.md">Ram Overclock Guide</a></li>

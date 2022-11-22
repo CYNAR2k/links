@@ -70,95 +70,50 @@
 <br>
 
  <ul>
-   
     <li><a href="https://www.7-zip.org/">7-ZIP - A file archiver, better than winrar</a></li>
-   
     <li><a href="https://geekuninstaller.com/">Geek Uninstaller - it's better than the windows one</a></li>
-      
-    <li><a href="https://www.snappy-driver-installer.org/">Snappy Driver Installer Origin - Get all your pc drivers</a></li>
-      
-    <li><a href="https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html">VMWARE WORKSTATION 16 PRO</a></li> <i>KEY: ZF3R0-FHED2-M80TY-8QYGC-NPKYF</i>
-      
-    <li><a href="https://github.com/Open-Shell/Open-Shell-Menu">OpenShell - Open Source Windows Start Menu Replace</a></li>
-      
+    <li><a href="https://www.snappy-driver-installer.org/">Snappy Driver Installer Origin - Get all your pc drivers</a></li>  
+    <li><a href="https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html">VMWARE WORKSTATION 16 PRO</a></li> <i>KEY: ZF3R0-FHED2-M80TY-8QYGC-NPKYF</i>  
+    <li><a href="https://github.com/Open-Shell/Open-Shell-Menu">OpenShell - Open Source Windows Start Menu Replace</a></li>  
     <li><a href="https://www.startisback.com/">StartIsBack - Windows Start Menu Replace</a></li>
-      
     <li><a href="https://www.nirsoft.net/utils/registry_changes_view.html/">REGISTRY CHANGES VIEW - View registry modifications</a></li>
-   
     <li><a href="https://www.voidtools.com/">EVERYTHING - Windows search replace</a></li>
-      
     <li><a href="https://forums.guru3d.com/threads/nvslimmer-nvidia-driver-slimming-utility.423072/">NVSLIMMER - Debloat Nvidia Drivers</a></li>
-      
     <li><a href="https://www.techpowerup.com/download/techpowerup-nvcleanstall">NVCLEANSTALL - Debloat Nvidia Drivers</a></li>
-   
     <li><a href="https://winaero.com/">WIN AERO - Basic application to tweak windows</a></li>
-      
     <li><a href="https://github.com/M2Team/NSudo">NSUDO - System Administration Toolkit</a></li>
-   
-    <li><a href="https://www.sordum.org/9416/powerrun-v1-4-run-with-highest-privileges/">POWER RUN - System Administration Toolkit</a></li>
-      
+    <li><a href="https://www.sordum.org/9416/powerrun-v1-4-run-with-highest-privileges/">POWER RUN - System Administration Toolkit</a></li>      
     <li><a href="https://notepad-plus-plus.org/downloads/">NOTEPAD++ - Better than windows stock notepad</a></li>
-      
     <li><a href="https://forums.guru3d.com/threads/windows-power-plan-settings-explorer-utility.416058/">POWER SETTINGS EXPLORER - See all power plan settings</a></li>
-   
     <li><a href="https://www.wagnardsoft.com/display-driver-uninstaller-ddu-">DISPLAY DRIVER UNINSTALLER</a></li>
-   
     <li><a href="https://www.qbittorrent.org/download.php">qBITTORRENT</a></li>
-   
     <li><a href="https://www.libreoffice.org/">LIBREOFFICE</a></li>
-      
     <li><a href="https://parsec.app/">PARSEC -  Remote desktop</a></li>
-      
     <li><a href="https://rustdesk.com/">RUST DESK - Open source remote desktop</a></li>
-      
     <li><a href="https://www.workspacer.org/">WORKSPACER - A tiling window manager for Windows 10</a></li>
-      
     <li><a href="https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns">AUTORUNS - Startup monitor</a></li>
-      
     <li><a href="https://ninite.com/">NINITE - Install and Update All Your Programs at Once</a></li>
-      
     <li><a href="https://github.com/abbodi1406/vcredist">VISUAL C++ - All-in-One</a></li>
-      
     <li><a href="https://github.com/Codeusa/SteamCleaner">STEAM CLEANER</a></li>
-      
     <li><a href="https://www.majorgeeks.com/files/details/easybcd.html">EASY BCD - Manage your boot loader</a></li>
-      
     <li><a href="https://dmde.com/">DMDE - Disk recovery utility</a></li>
-      
     <li><a href="https://www.sordum.org/8478/reg-converter-v1-2/">REG CONVERTER - Convert reg files to bat or vbs</a></li>
-      
     <li><a href="https://gitlab.com/CalcProgrammer1/OpenRGB">OPEN RGB - lighting control that doesn't depend on manufacturer software</a></li>
-   
     <li><a href="https://mechvibes.com/">MECH VIBES - Change the sound of your keyboard into anything</a></li>
-      
     <li><a href="https://www.codesector.com/teracopy">TERA COPY - Copy your files faster and more securely</a></li>
-      
     <li><a href="https://dban.org/">DBAN - Free Open-Source Data Wiping</a></li>
-      
     <li><a href="https://www.uwe-sieber.de/usbtreeview_e.html">USB TREE VIEW</a></li>
-      
     <li><a href="https://github.com/henrypp/simplewall">SIMPLEWALL - Simple tool to configure Windows Filtering Platform which can configure network activity on your computer</a></li>
-      
     <li><a href="https://github.com/demberto/EzUnlock">EZ UNLOCK - An open source alternative to and inspired by IOBit Unlocker</a></li>
-      
     <li><a href="https://github.com/iXab3r/MicSwitch">MIC SWITCH - Tool which allows you to mute/unmute using a predefined system-wide hotkey</a></li>
-      
     <li><a href="https://th-ch.github.io/youtube-music/">YouTube Music Desktop App with built-in ad blocker and downloader</a></li>
-      
     <li><a href="https://github.com/martinet101/WingetUI">WIN GET UI- A package manager for Winget and Scoop</a></li>
-      
     <li><a href="https://github.com/yt-dlp/yt-dlp">YT DLP - Download videos from YouTube</a></li>
-      
     <li><a href="https://github.com/Shabinder/SpotiFlyer">SPOTI FLYER - Music Downloader ,supports Spotify, Youtube, Gaana, Jio-Saavn and SoundCloud</a></li>
-      
     <li><a href="https://www.winreducer.net/">WIN REDUCER - Customize and create your own Windows image</a></li>
-      
     <li><a href="https://www.ntlite.com/">NTLITE - Customize and create your own Windows image</a></li>
-      
     <li><a href=""></a></li>
-      
     <li><a href=""></a></li>
-      
     <li><a href=""></a></li>
 </ul>
 

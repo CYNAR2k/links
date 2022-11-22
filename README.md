@@ -172,157 +172,110 @@
 <br>
 
  <ul>
-   <li><a >HWiNFO</a> <a href="https://www.hwinfo.com/"</a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
+    <li><a href="https://www.hwinfo.com/">HWiNFO</a></li>
+    <li><a href="https://www.nvidia.com/en-eu/geforce/technologies/frameview/">FRAME VIEW</a></li>
+    <li><a href="https://gpuopen.com/ocat/">OCAT</a></li>
+    <li><a href="https://boringboredom.github.io/Frame-Time-Analysis/">FRAME TIME ANALYSIS - Better than CapFrameX</a></li>
+    <li><a href="https://github.com/CXWorld/CapFrameX">CAP FRAME X</a></li>
+    <li><a href="https://forums.guru3d.com/threads/windows-line-based-vs-message-signaled-based-interrupts-msi-tool.378044/">MESSAGE-SIGNALE-BASED-INTERRUPTS</a></li>
+    <li><a href="https://benchmate.org/">PC BENCHMARK VALIDATION SOFTWARE</a></li>
+    <li><a href="https://www.passmark.com/products/performancetest">PASSMARK</a></li>
+    <li><a href="https://www.aida64.com/">AIDA64</a></li>
+    <li><a href="https://www.techpowerup.com/gpuz/">GPU-Z</a></li>
+    <li><a href="https://www.cpuid.com/softwares/cpu-z.html">GPU-Z</a></li>
+    <li><a href="https://crystalmark.info/en/software/crystaldiskinfo">CRYSTAL DISK INFO</a></li>
+    <li><a href="https://www.msi.com/Landing/afterburner/graphics-cards">MSI AFTERBURNER + RIVATUNER</a></li>
+    <li><a href="https://www.maxon.net/en/cinebench">CINEBENCH</a></li>
+    <li><a href="https://benchmark.unigine.com/">UNGINE BENCHMARKS</a></li>
+    <li><a href="https://forums.guru3d.com/threads/simple-way-to-trace-dpcs-and-isrs.423884/">SIMPLE WAY TO TRACE DPC AND ISRS</a></li>
+    <li><a href="https://store.steampowered.com/app/223850/3DMark">3D MARK</a></li>
+    <li><a href="https://www.techpowerup.com/download/linpack-xtreme/">LINPACK XTREME</a></li>
+    <li><a href="https://www.geekbench.com/index.html">GEEK BENCH</a></li>
+    <li><a href="https://www.techpowerup.com/download/super-pi/">SUPER PI</a></li>
+    <li><a href="http://www.numberworld.org/y-cruncher/">Y-CRUNCHER</a></li>
+    <li><a href="https://www.techpowerup.com/download/prime95/">PRIME 95</a></li>
+    <li><a href="https://www.ocbase.com/">OCCT</a></li>
+    <li><a href="http://www.softnology.biz/files.html">TAIPHOON BURNER</a></li>
+    <li><a href="https://download.asrock.com/Utility/Formula/TimingConfigurator(v4.0.4).zip">ASROCK TIMING CONFIGURATOR</a></li>
+    <li><a href="https://github.com/integralfx/MemTestHelper/blob/oc-guide/DDR4%20OC%20Guide.md#recommended">TM5 RAM STRESS TESTER</a></li>
+    <li><a href="https://browserbench.org/">BROWSER BENCHMARK</a></li>
+    <li><a href="https://github.com/samisalreadytaken/csgo-benchmark">CS:GO BENCHMARK</a></li>
+    <li><a href="https://github.com/amitxv/csgo-autobenchmark">CS:GO AUTO BENCHMARK</a></li>
+    <li><a href="https://github.com/amitxv/AutoGpuAffinity">AUTO GPU AFFINITY</a></li>
+    <li><a href="https://www.overclock.net/threads/mousetester-software-reloaded.1590569/">MOUSE TESTER</a></li>
  </ul>
 
 </details>
 
-## Benchmarks-etc
-
-- [HWiNFO]()
-- [OCAT](https://gpuopen.com/ocat/)
-- [Frame Time Analysis - Better than CapFrameX](https://boringboredom.github.io/Frame-Time-Analysis/)
-- [CapFrameX](https://github.com/CXWorld/CapFrameX)
-- [Message-Signaled-Based-Interrupts](https://forums.guru3d.com/threads/windows-line-based-vs-message-signaled-based-interrupts-msi-tool.378044/)
-- [PC Benchmark Validation Software](https://benchmate.org/)
-- [PassMark](https://www.passmark.com/products/performancetest)
-- [Aida64](https://www.aida64.com/)
-- [GPU-Z](https://www.techpowerup.com/gpuz/)
-- [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
-- [Cyrstal Disk Info](https://crystalmark.info/en/software/crystaldiskinfo)
-- [AfterBurner](https://www.msi.com/Landing/afterburner/graphics-cards)
-- [CineBench](https://www.maxon.net/en/cinebench)
-- [UNGINE Benchmarks](https://benchmark.unigine.com/)
-- [Simple way to trace DPC and ISRs](https://forums.guru3d.com/threads/simple-way-to-trace-dpcs-and-isrs.423884/)
-- [3D MARK](https://store.steampowered.com/app/223850/3DMark)
-- [Linpack Xtreme](https://www.techpowerup.com/download/linpack-xtreme/)
-- [GeekBench](https://www.geekbench.com/index.html)
-- [Super Pi](https://www.techpowerup.com/download/super-pi/)
-- [ASRock Timing Configurator](https://download.asrock.com/Utility/Formula/TimingConfigurator(v4.0.4).zip)
-- [MemTest86](https://www.memtest86.com/)
-- [BrowserBenchmark](https://browserbench.org/)
-- [OCCT](https://www.ocbase.com/)
-- [Taiphoon Burner](http://www.softnology.biz/files.html)
-- [Prime95](https://prime95.en.lo4d.com/windows)
-- [CS:GO Benchmark](https://github.com/samisalreadytaken/csgo-benchmark)
-- [MOUSE TESTER](https://www.overclock.net/threads/mousetester-software-reloaded.1590569/)
-
 
 <details>
 
-<summary>Reviews</summary>
+  <summary><b>Reviews</b></summary>
 <br>
 
  <ul>
-    li><a href=""></a></li>
-    li><a href=""></a></li>
-    li><a href=""></a></li>
-    li><a href=""></a></li>
-    li><a href=""></a></li>
-    li><a href=""></a></li>
-    li><a href=""></a></li>
-    li><a href=""></a></li>
-    li><a href=""></a></li>
-    li><a href=""></a></li>
-    li><a href=""></a></li>
-    li><a href=""></a></li>
+    <li><a href="https://www.rtings.com/">REVIEWS AND RATINGS</a></li>
+    <li><a href="https://www.displayninja.com/">DISPLAY NINJA</a></li>
+    <li><a href="https://pcmonitors.info/">PC MONITORS</a></li>
+    <li><a href="https://www.tftcentral.co.uk/">TFT CENTRAL</a></li>
+    <li><a href="https://www.techspot.com/">TECH SPOT</a></li>
+    <li><a href="https://www.techpowerup.com/">TECH POWER UP</a></li>
+    <li><a href="https://www.aperturegrille.com/">APERTURE GRILLE</a></li>
+    <li><a href="https://docs.google.com/spreadsheets/d/14Kt2cAn8a7j2sGXiPGt4GcxpR3RXVcDAx9R5c2M8680">HIGH AIRFLOW CASES</a></li>
+    <li><a href="https://www.rocketjumpninja.com/">ROCKET JUMP NINJA</a></li>
+    <li><a href="https://www.beardedbob.com/">BEARDED BOB</a></li>
+    <li><a href="https://docs.google.com/spreadsheets/d/1RAnmZxDNduaGV8kB-GCvZ0MO6d9-0j9jmrU2f8dp0Ww">MOUSEPAD MASTER SHEET</a></li>
+    <li><a href="https://blurbusters.com/">BLUR BUSTERS</a></li>
+    <li><a href="https://cultists.network/140/psu-tier-list/">PSU TIER LIST</a></li>
+    <li><a href="https://www.gamersnexus.net/">GAMER NEXUS</a></li>
+    <li><a href="https://kingfaris.co.uk/">KING FARIS - This site provides valuable information to help PC builders select parts and learn how to overclock<a/></li>
+    
+   
+    
 </ul>
 
 </details>
 
 
-# Reviews
-
-- [Reviews and Ratings](https://www.rtings.com/)
-- [Display Ninja](https://www.displayninja.com/)
-- [PC Monitors](https://pcmonitors.info/)
-- [TFT Central](https://www.tftcentral.co.uk/)
-- [Tech Spot](https://www.techspot.com/)
-- [Aperture Grille](https://www.aperturegrille.com/)
-- [Case Recomendations by Calypto](https://docs.google.com/spreadsheets/d/14Kt2cAn8a7j2sGXiPGt4GcxpR3RXVcDAx9R5c2M8680)
-- [Rocket Jump Ninja](https://www.rocketjumpninja.com/)
-- [Beardedbob](https://www.beardedbob.com/)
-- [Mousepad Master Sheet by Hoya](https://docs.google.com/spreadsheets/d/1RAnmZxDNduaGV8kB-GCvZ0MO6d9-0j9jmrU2f8dp0Ww)
-- [Gamer Nexus](https://www.gamersnexus.net/)
-- [Blur Busters](https://blurbusters.com/)
-- [PSU TIER LIST](https://cultists.network/140/psu-tier-list/)
-
 <details>
 
-<summary>Websites</summary>
+  <summary><b>WEBSITES</b></summary>
 <br>
 
  <ul>
-    <li><a href=""></li>
-    <li><a href=""></li>
-    <li><a href=""></li>
-    <li><a href=""></li>
-    <li><a href=""></li>
-    <li><a href=""></li>
-    <li><a href=""></li>
-    <li><a href=""></li>
-    <li><a href=""></li>
-    <li><a href=""></li>
-    <li><a href=""></li>
-    <li><a href=""></li>
-    <li><a href=""></li>
-    <li><a href=""></li>
-    <li><a href=""></li>
-    <li><a href=""></li>
-    <li><a href=""></li>
-    <li><a href=""></li>
-    <li><a href=""></li>
-    <li><a href=""></li>
+    <li><a href="https://www.majorgeeks.com/">MAJOR GEEKS<a/></li>
+    <li><a href="https://www.hagglezon.com/">HAGGLEZON - Compare all amazon prices<a/></li>
+    <li><a href="https://www.virustotal.com/gui/home/upload">VIRUS TOTAL<a/></li>
+    <li><a href="https://www.reddit.com/r/Windows10/"><a/>WINDOWS 10 REDDIT</li>
+    <li><a href="https://www.tenforums.com/">TENFORUMS - Windows 10 related<a/></li>
+    <li><a href="https://www.sevenforums.com/"><a/>7 FORUMS - Windows 7 related</li>
+    <li><a href="https://forums.mydigitallife.net/">MY DIGITAL LIFE - Tech Forum<a/></li>
+    <li><a href="https://www.writebots.com/discord-text-formatting"><a/>DISCORD TEXT FORMATTING</li>
+    <li><a href="https://pcpartpicker.com/">PCPARTPICKER - BUILD YOUR PC<a/></li>
+    <li><a href="https://www.reddit.com/r/buildapcsales/">REDDIT PC STUFF SALES<a/></li>
+    <li><a href="https://everynoise.com/"><a/>EVERYNOISE - Find new music and artists</li>
+    <li><a href="https://archive.org/">ARCHIEVE - Library of millions of free books, movies, software, music, websites, and more.<a/></li>
+    <li><a href="https://wallhaven.cc/">WALLPAPERS<a/></li>
+    <li><a href="https://adblock-tester.com/">ADBLOCK TEST<a/></li>
+    <li><a href="https://www.lo4d.com/">LO4D - Free Software download<a/></li>
+    <li><a href="https://www.tweaktown.com/">TWEAK TOWN - PC News Website<a/></li>
+    <li><a href="https://tell.wtf/">TELL.WTF - Icons website<a/></li>
+    <li><a href="https://www.vsynctester.com/">TEST VSYNC<a/></li>
+    <li><a href="https://shortlyai.com/">SHORTLYAI - AI Write texter<a/></li>
+    <li><a href="https://agoodmovietowatch.com/">FIND MOVIES <a/></li>
+    <li><a href="https://www.monitortests.com/">TEST YOUR MONITOR<a/></li>
+    <li><a href="https://alternativeto.net/">ALTERNATIVE TO - Find alternative programs<a/></li>
+    <li><a href="https://sourceforge.net/">SOURCEFORGE - Compare, Download & Develop Open Source & Business Software<a/></li>
+    <li><a href="http://batcmd.com/windows/10/services/">WINDOWS SERVICE LIST<a/></li>
+    <li><a href="https://admx.help/">WINDOWS REGISTRY<a/></li>
+    <li><a href="https://udemyfreecourses.org/">UDEMY FREE COURSES<a/></li>
+    <li><a href="https://tinywow.com/">TINYWOW - Convert Files<a/></li>
+    <li><a href="https://lofigenerator.com/">LOFI GENERATOR<a/></li>
+    <li><a href="https://overapi.com/">OVER API - Collectin all the cheat sheets<a/></li>
+    <li><a href="https://privacy.sexy/">PRIVACY.SEXY - Web tool to generate scripts for enforcing privacy & security<a/></li>
+    <li><a href="https://free-mp3-download.net/">FREE MP3 AND FLACK 320KPBS DOWNLOADS<a/></li>
+    <li><a href="https://rentry.co/">RENTRY - Markdown pastebin service with preview, custom urls and editing<a/></li>
 </ul>
 
 
 </details>
-
-## Websites
-
-- [Major Geeks](https://www.majorgeeks.com/)
-- [Hagglezon](https://www.hagglezon.com/)
-- [Reddit pc stuff sales](https://www.reddit.com/r/buildapcsales/)
-- [Virus Total](https://www.virustotal.com/gui/home/upload)
-- [Windows 10 Related](https://www.tenforums.com/)
-- [Windows 7 Related](https://www.sevenforums.com/)
-- [My digital life - Tech Forum](https://forums.mydigitallife.net/)
-- [Discord text formatting](https://www.writebots.com/discord-text-formatting)
-- [PCPartPicker](https://pcpartpicker.com/)
-- [Find new music](https://everynoise.com/)
-- [Archive](https://archive.org/)
-- [Windows 10 Reddit](https://www.reddit.com/r/Windows10/)
-- [Wallpapers](https://wallhaven.cc/)
-- [Adblock test](https://adblock-tester.com/)
-- [Gamer Nexus](https://www.gamersnexus.net/)
-- [King Faris - PC tips](https://kingfaris.co.uk/)
-- [lo4d - Usefull website with tools](https://www.lo4d.com/)
-- [PC News Website](https://www.tweaktown.com/)
-- [Icons website](https://tell.wtf/)
-- [Test VSYNC](https://www.vsynctester.com/)
-- [AI Write texter](https://shortlyai.com/)
-- [Find movies](https://agoodmovietowatch.com/)
-- [Test your monitor](https://www.monitortests.com/)
-- [Find alternative programs](https://alternativeto.net/)
-- [Open-source programs](https://sourceforge.net/)
-- [Windows Service List](http://batcmd.com/windows/10/services/)
-- [Windows Registry](https://admx.help/)
-- [Udemy FREE courses](https://udemyfreecourses.org/)
-- [Convert Files](https://tinywow.com/)
-- [lofi generator](https://lofigenerator.com/) 
-- [All Cheat Sheets](https://overapi.com/)
-- [Web tool to generate scripts for enforcing privacy & security](https://privacy.sexy/)
-- [Free MP3 and FLAC 320kpbs Downloads](https://free-mp3-download.net/)
-- [Markdown pastebin service with preview, custom urls and editing](https://rentry.co/)

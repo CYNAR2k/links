@@ -5,12 +5,12 @@
 
 
 # Table Of Contents
-- [GUIDES](https://github.com/CYNAR2k/link-z/#guides)
-- [WINDOWS](https://github.com/CYNAR2k/link-z/#windows)
-- [SOFTWARE](https://github.com/CYNAR2k/link-z/#programs)
-- [BENCHMARKS-TOOLS](https://github.com/CYNAR2k/link-z/#benchmarks-tools)
-- [REVIEWS](https://github.com/CYNAR2k/link-z/#reviews)
-- [WEBSITES](https://github.com/CYNAR2k/link-z/#websites)
+- [GUIDES](https://github.com/CYNAR2k/link-z/#GUIDES)
+- [WINDOWS](https://github.com/CYNAR2k/link-z/#WINDOWS)
+- [SOFTWARE](https://github.com/CYNAR2k/link-z/#SOFTWARE)
+- [BENCHMARKS-TOOLS](https://github.com/CYNAR2k/link-z/#BENCHMARK-TOOLS)
+- [REVIEWS](https://github.com/CYNAR2k/link-z/#REVIEWS)
+- [WEBSITES](https://github.com/CYNAR2k/link-z/#WEBSITES)
 
 
 # GUIDES

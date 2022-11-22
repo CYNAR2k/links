@@ -5,7 +5,7 @@
 
 
 ## Table Of Contents
-- [GUIDES](https://cynar2k.github.io/link-z/#guides)
+- [GUIDES](https://cynar2k.github.io/link-z/##guides)
 - [WINDOWS](https://cynar2k.github.io/links/#windows)
 - [SOFTWARE](https://cynar2k.github.io/links/#programs)
 - [BENCHMARKS-TOOLS](https://cynar2k.github.io/links/#benchmarks-etc)

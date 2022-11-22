@@ -29,7 +29,7 @@
 - [HDD Surival guide by Depri](https://github.com/DepriFromEarth/hdd-survival-guide)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html)
 
-**[`^        back to top        ^`](https://cynar2k.github.io/links/#table-of-contents)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 
 ## Windows
@@ -51,7 +51,7 @@
 - [AtlasOS - Windows version designed for gamers](https://atlasos.net/)
 - [Buy Windows Keys](https://www.allkeyshop.com/blog/catalogue/search-windows/)
 
-**[`^        back to top        ^`](https://cynar2k.github.io/links/#table-of-contents)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 ## Programs
 
@@ -100,7 +100,7 @@
 - [Download videos from YouTube](https://github.com/yt-dlp/yt-dlp)
 - [Music Downloader ,supports Spotify, Youtube, Gaana, Jio-Saavn and SoundCloud](https://github.com/Shabinder/SpotiFlyer)
 
-**[`^        back to top        ^`](https://cynar2k.github.io/links/#table-of-contents)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 ## Benchmarks-etc
 
@@ -131,7 +131,7 @@
 - [Prime95](https://prime95.en.lo4d.com/windows)
 - [CS:GO Benchmark](https://github.com/samisalreadytaken/csgo-benchmark)
 
-**[`^        back to top        ^`](https://cynar2k.github.io/links/#table-of-contents)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 # Reviews
 
@@ -150,7 +150,7 @@
 - [PSU TIER LIST](https://cultists.network/140/psu-tier-list/)
 - [KING FARIS - This site provides valuable information to help PC builders select parts and learn how to overclock](https://kingfaris.co.uk/)
 
-**[`^        back to top        ^`](https://cynar2k.github.io/links/#table-of-contents)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 ## Websites
 
@@ -188,4 +188,4 @@
 - [RENTRY - Markdown pastebin service with preview, custom urls and editing](https://rentry.co/)
 - [SNAP DROP - Instantly share images, videos, PDFs, and links with people nearby](https://snapdrop.net/)
 
-**[`^        back to top        ^`](https://cynar2k.github.io/links/#table-of-contents)**
+**[`^        back to top        ^`](#table-of-contents)**

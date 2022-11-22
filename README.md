@@ -58,7 +58,6 @@
     <li><a href="https://github.com/massgravel/Microsoft-Activation-Scripts">Activate windows for free 2</a></li>
     <li><a href="https://www.ventoy.net/en/index.html">VENTOY - Bootable USB</a></li>
     <li><a href="http://rufus.ie/en/">Rufus - Bootable USB</a></li>
-    <li><a href=""></a></li>
 </ul>  
 
   </details>
@@ -113,7 +112,6 @@
     <li><a href="https://github.com/Shabinder/SpotiFlyer">SPOTI FLYER - Music Downloader ,supports Spotify, Youtube, Gaana, Jio-Saavn and SoundCloud</a></li>
     <li><a href="https://www.winreducer.net/">WIN REDUCER - Customize and create your own Windows image</a></li>
     <li><a href="https://www.ntlite.com/">NTLITE - Customize and create your own Windows image</a></li>
-    <li><a href=""></a></li>
 </ul>
 
 
@@ -157,7 +155,6 @@
     <li><a href="https://github.com/amitxv/csgo-autobenchmark">CS:GO AUTO BENCHMARK</a></li>
     <li><a href="https://github.com/amitxv/AutoGpuAffinity">AUTO GPU AFFINITY</a></li>
     <li><a href="https://www.overclock.net/threads/mousetester-software-reloaded.1590569/">MOUSE TESTER</a></li>
-    <li><a href=""></a></li>
  </ul>
 
 </details>
@@ -227,7 +224,7 @@
     <li><a href="https://privacy.sexy/">PRIVACY.SEXY - Web tool to generate scripts for enforcing privacy & security</a></li>
     <li><a href="https://free-mp3-download.net/">FREE MP3 AND FLACK 320KPBS DOWNLOADS</a></li>
     <li><a href="https://rentry.co/">RENTRY - Markdown pastebin service with preview, custom urls and editing</a></li>
-    <li><a href="https://snapdrop.net/">SNAP DROP - Instantly share images, videos, PDFs, and links with people nearby. Peer2Peer and Open Source. No Setup, No Signup</a></li>
+    <li><a href="https://snapdrop.net/">SNAP DROP - Instantly share images, videos, PDFs, and links with people nearby</a></li>
 </ul>
 
 </details>

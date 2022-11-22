@@ -203,7 +203,7 @@
     <li><a href="https://www.tenforums.com/">TENFORUMS - Windows 10 related<a/></li>
     <li><a href="https://www.sevenforums.com/">7 FORUMS - Windows 7 related<a/></li>
     <li><a href="https://forums.mydigitallife.net/">MY DIGITAL LIFE - Tech Forum<a/></li>
-    <li><a href="https://www.writebots.com/discord-text-formatting"><a/>DISCORD TEXT FORMATTING</li>
+    <li><a href="https://www.writebots.com/discord-text-formatting">DISCORD TEXT FORMATTING<a/></li>
     <li><a href="https://pcpartpicker.com/">PCPARTPICKER - BUILD YOUR PC<a/></li>
     <li><a href="https://www.reddit.com/r/buildapcsales/">REDDIT PC STUFF SALES<a/></li>
     <li><a href="https://everynoise.com/">EVERYNOISE - Find new music and artists<a/></li>
@@ -228,6 +228,7 @@
     <li><a href="https://privacy.sexy/">PRIVACY.SEXY - Web tool to generate scripts for enforcing privacy & security<a/></li>
     <li><a href="https://free-mp3-download.net/">FREE MP3 AND FLACK 320KPBS DOWNLOADS<a/></li>
     <li><a href="https://rentry.co/">RENTRY - Markdown pastebin service with preview, custom urls and editing<a/></li>
+    <li><a href="https://snapdrop.net/">SNAP DROP - Instantly share images, videos, PDFs, and links with people nearby. Peer2Peer and Open Source. No Setup, No Signup</a></li>
 </ul>
 
 

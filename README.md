@@ -122,7 +122,7 @@
 
 <details>
 
-  <summary><b>Benchmarks-tools</b></summary>
+  <summary><b>BENCHMARK-TOOLS</b></summary>
 <br>
 
  <ul>
@@ -184,7 +184,6 @@
     <li><a href="https://cultists.network/140/psu-tier-list/">PSU TIER LIST</a></li>
     <li><a href="https://www.gamersnexus.net/">GAMER NEXUS</a></li>
     <li><a href="https://kingfaris.co.uk/">KING FARIS - This site provides valuable information to help PC builders select parts and learn how to overclock<a/></li>
-      <li><a href=""></a></li>
 </ul>
 
 </details>

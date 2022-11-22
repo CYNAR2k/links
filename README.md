@@ -40,42 +40,32 @@
     <li><a href="https://windowsaddict.ml/readme-genuine-installation-media.html">Genuine Installation Media</a></li>
     <li><a href="https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-iso-download-tool">HEIDOC</a></li>
     <li><a href="https://tb.rg-adguard.net/public.php">TECH BENCH</a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
+    <li><a href="https://the-eye.eu/public/MSDN/">THE EYE</a></li>
+    <li><a href="https://www.majorgeeks.com/files/details/universal_mediacreationtool.html">UNIVERSAL MEDIA CREATION TOOL</a></li>
+    <li><a href="https://uup.rg-adguard.net/"></a>UNIFIED UPDATE PLATFORM</li>
+    <li><a href="https://uupdump.net/"></a>DUMP</li>
+    <li><a href="https://docs.google.com/spreadsheets/d/14-D4tIlFp9APP0OOvQBRXvfLOYC447UygywenX5LXfo"></a>KICH HOAT BAN QUYEN</li>
+    <li><a href="https://forums.guru3d.com/threads/microsoft-windows-iso-download-tool.407691/"></a>MICROSOFT WINDOWS ISO DOWNLOAD TOOL</li>
+    <li><a href="https://digitalrivermirror.com/">DIGITAL RIVER - FOR WINDOWS 7</a></li>
+    <li><a href="https://github.com/pbatard/Fido"></a>FIDO - RETAIL WINDOWS ISO DOWNLOAD SCRIPT</li>
+    <li><a href="https://isofiles.bd581e55.workers.dev/"></a>UNTOUCHED WINDOWS ISOS 1</li>
+    <li><a href="https://soft.uclv.edu.cu/Microsoft/"></a>UNTOUCHED WINDOWS ISOS 2</li>
+    <li><a href="https://files.dog/MSDN/"></a>UNTOUCHED WINDOWS ISOS 3</li>
+    <li><a href="https://files.rg-adguard.net/version/f0bd8307-d897-ef77-dbd6-216fefbe94c5?lang=en-us"></a>WINDOWS HASH CHECK</li>
+    <li><a href="https://www.heidoc.net/php/myvsdump.php"></a>WINDOWS HASH CHECK 2</li>
+    <li><a href="https://msdn.su/downloads/operating-systems"></a>WINDOWS HASH CHECK 3</li>
+    <li><a href="https://genuine-iso-verifier.weebly.com"</a>WINDOWS HASH CHECK 4</li>
+    <li><a href="https://ameliorated.info"></a>Debloated windows 10 and open source</li>
+    <li><a href="https://atlasos.net/"></a>AtlasOS - Open Source Windows version designed for gamers. </li>
+    <li><a href="https://www.allkeyshop.com/blog/catalogue/search-windows/">Buy Windows Keys</a></li>
+    <li><a href="https://github.com/kkkgo/KMS_VL_ALL"></a>Activate windows for free 1</li>
+    <li><a href="https://github.com/massgravel/Microsoft-Activation-Scripts"></a>Activate windows for free 2</li>
     <li><a href=""></a></li>
     
 </ul>  
  
   </details>
 
-
-
-
-## Windows
-
-- [W]()
-- []()
-- []()
-- [](
-- [THE EYE](https://the-eye.eu/public/MSDN/)
-- [UNIVERSAL MEDIA CREATION TOOL](https://www.majorgeeks.com/files/details/universal_mediacreationtool.html)
-- [UNIFIED UPDATE PLATFORM](https://uup.rg-adguard.net/) / [DUMP](https://uupdump.net/)
-- [KICH HOAT BAN QUYEN](https://docs.google.com/spreadsheets/d/14-D4tIlFp9APP0OOvQBRXvfLOYC447UygywenX5LXfo/edit#gid=960687212)
-- [MICROSOFT WINDOWS ISO DOWNLOAD TOOL](https://forums.guru3d.com/threads/microsoft-windows-iso-download-tool.407691/)
-- [DIGITAL RIVER - FOR WINDOWS 7](https://digitalrivermirror.com/)
-- [FIDO - RETAIL WINDOWS ISO DOWNLOAD SCRIPT](https://github.com/pbatard/Fido)
-- [UNTOUCHED WINDOWS ISOS](https://isofiles.bd581e55.workers.dev/) / [UNTOUCHED WINDOWS ISOS 2](https://soft.uclv.edu.cu/Microsoft/) / [UNTOUCHED WINDWOS ISOS 3](https://files.dog/MSDN/)
-- [WINDOWS HASH CHECK](https://files.rg-adguard.net/version/f0bd8307-d897-ef77-dbd6-216fefbe94c5?lang=en-us) / [WINDOWS HASH CHECK 2](https://www.heidoc.net/php/myvsdump.php) / [WINDOWS HASH CHECK 3](https://msdn.su/downloads/operating-systems) / [WINDOWS HASH CHECK 4](https://genuine-iso-verifier.weebly.com/)
-- [Debloated windows 10 and open source](https://ameliorated.info/)
-- [AtlasOS - Windows version designed for gamers](https://atlasos.net/)
-- [Buy Windows Keys](https://www.allkeyshop.com/blog/catalogue/search-windows/)
 
 ## Programs
 

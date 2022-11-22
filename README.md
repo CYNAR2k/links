@@ -183,7 +183,7 @@
     <li><a href="https://blurbusters.com/">BLUR BUSTERS</a></li>
     <li><a href="https://cultists.network/140/psu-tier-list/">PSU TIER LIST</a></li>
     <li><a href="https://www.gamersnexus.net/">GAMER NEXUS</a></li>
-    <li><a href="https://kingfaris.co.uk/">KING FARIS - This site provides valuable information to help PC builders select parts and learn how to overclock<a/></li>
+    <li><a href="https://kingfaris.co.uk/">KING FARIS - This site provides valuable information to help PC builders select parts and learn how to overclock</a></li>
 </ul>
 
 </details>
@@ -229,6 +229,5 @@
     <li><a href="https://rentry.co/">RENTRY - Markdown pastebin service with preview, custom urls and editing</a></li>
     <li><a href="https://snapdrop.net/">SNAP DROP - Instantly share images, videos, PDFs, and links with people nearby. Peer2Peer and Open Source. No Setup, No Signup</a></li>
 </ul>
-
 
 </details>

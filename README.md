@@ -58,6 +58,7 @@
     <li><a href="https://github.com/massgravel/Microsoft-Activation-Scripts">Activate windows for free 2</a></li>
     <li><a href="https://www.ventoy.net/en/index.html">VENTOY - Bootable USB</a></li>
     <li><a href="http://rufus.ie/en/">Rufus - Bootable USB</a></li>
+    <li><a href=""></a></li>
 </ul>  
 
   </details>
@@ -113,8 +114,6 @@
     <li><a href="https://www.winreducer.net/">WIN REDUCER - Customize and create your own Windows image</a></li>
     <li><a href="https://www.ntlite.com/">NTLITE - Customize and create your own Windows image</a></li>
     <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
 </ul>
 
 
@@ -158,6 +157,7 @@
     <li><a href="https://github.com/amitxv/csgo-autobenchmark">CS:GO AUTO BENCHMARK</a></li>
     <li><a href="https://github.com/amitxv/AutoGpuAffinity">AUTO GPU AFFINITY</a></li>
     <li><a href="https://www.overclock.net/threads/mousetester-software-reloaded.1590569/">MOUSE TESTER</a></li>
+    <li><a href=""></a></li>
  </ul>
 
 </details>
@@ -184,10 +184,8 @@
     <li><a href="https://cultists.network/140/psu-tier-list/">PSU TIER LIST</a></li>
     <li><a href="https://www.gamersnexus.net/">GAMER NEXUS</a></li>
     <li><a href="https://kingfaris.co.uk/">KING FARIS - This site provides valuable information to help PC builders select parts and learn how to overclock<a/></li>
-    
-   
-    
-</ul>
+      <li><a href=""></a></li>
+ </ul>
 
 </details>
 
@@ -201,15 +199,15 @@
     <li><a href="https://www.majorgeeks.com/">MAJOR GEEKS<a/></li>
     <li><a href="https://www.hagglezon.com/">HAGGLEZON - Compare all amazon prices<a/></li>
     <li><a href="https://www.virustotal.com/gui/home/upload">VIRUS TOTAL<a/></li>
-    <li><a href="https://www.reddit.com/r/Windows10/"><a/>WINDOWS 10 REDDIT</li>
+    <li><a href="https://www.reddit.com/r/Windows10/">WINDOWS 10 REDDIT<a/></li>
     <li><a href="https://www.tenforums.com/">TENFORUMS - Windows 10 related<a/></li>
-    <li><a href="https://www.sevenforums.com/"><a/>7 FORUMS - Windows 7 related</li>
+    <li><a href="https://www.sevenforums.com/">7 FORUMS - Windows 7 related<a/></li>
     <li><a href="https://forums.mydigitallife.net/">MY DIGITAL LIFE - Tech Forum<a/></li>
     <li><a href="https://www.writebots.com/discord-text-formatting"><a/>DISCORD TEXT FORMATTING</li>
     <li><a href="https://pcpartpicker.com/">PCPARTPICKER - BUILD YOUR PC<a/></li>
     <li><a href="https://www.reddit.com/r/buildapcsales/">REDDIT PC STUFF SALES<a/></li>
-    <li><a href="https://everynoise.com/"><a/>EVERYNOISE - Find new music and artists</li>
-    <li><a href="https://archive.org/">ARCHIEVE - Library of millions of free books, movies, software, music, websites, and more.<a/></li>
+    <li><a href="https://everynoise.com/">EVERYNOISE - Find new music and artists<a/></li>
+    <li><a href="https://archive.org/">ARCHIEVE - Library of millions of free books, movies, software, music, websites, and more<a/></li>
     <li><a href="https://wallhaven.cc/">WALLPAPERS<a/></li>
     <li><a href="https://adblock-tester.com/">ADBLOCK TEST<a/></li>
     <li><a href="https://www.lo4d.com/">LO4D - Free Software download<a/></li>

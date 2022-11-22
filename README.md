@@ -165,7 +165,7 @@
 
 <details>
 
-  <summary><b>Reviews</b></summary>
+  <summary><b>REVIEWS</b></summary>
 <br>
 
  <ul>
@@ -185,7 +185,7 @@
     <li><a href="https://www.gamersnexus.net/">GAMER NEXUS</a></li>
     <li><a href="https://kingfaris.co.uk/">KING FARIS - This site provides valuable information to help PC builders select parts and learn how to overclock<a/></li>
       <li><a href=""></a></li>
- </ul>
+</ul>
 
 </details>
 

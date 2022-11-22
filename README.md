@@ -172,26 +172,26 @@
 <br>
 
  <ul>
-    li><a href=""></a></li>
-    li><a href=""></a></li>
-    li><a href=""></a></li>
-    li><a href=""></a></li>
-    li><a href=""></a></li>
-    li><a href=""></a></li>
-    li><a href=""></a></li>
-    li><a href=""></a></li>
-    li><a href=""></a></li>
-    li><a href=""></a></li>
-    li><a href=""></a></li>
-    li><a href=""></a></li>
-    li><a href=""></a></li>
+    <li><a>HWiNFO</a>href="https://www.hwinfo.com/"</li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
  </ul>
 
 </details>
 
 ## Benchmarks-etc
 
-- [HWiNFO](https://www.hwinfo.com/)
+- [HWiNFO]()
 - [OCAT](https://gpuopen.com/ocat/)
 - [Frame Time Analysis - Better than CapFrameX](https://boringboredom.github.io/Frame-Time-Analysis/)
 - [CapFrameX](https://github.com/CXWorld/CapFrameX)

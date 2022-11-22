@@ -172,7 +172,7 @@
 <br>
 
  <ul>
-    <li>HWiNFO <a href="https://www.hwinfo.com/"</a></li>
+   <li><a >HWiNFO</a> <a href="https://www.hwinfo.com/"</a></li>
     <li><a href=""></a></li>
     <li><a href=""></a></li>
     <li><a href=""></a></li>

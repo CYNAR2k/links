@@ -11,7 +11,7 @@
 
 <details>
 
-<summary>**Guides**</summary>
+<summary>Guides</summary>
 <br>
 
 <ul>

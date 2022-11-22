@@ -160,8 +160,7 @@
     <li><a href=""></li>
       
     <li><a href=""></li>
-
-  </ul>
+</ul>
 
 
 </details>
@@ -193,8 +192,7 @@
     <li><a href=""></li>
     <li><a href=""></li>
     <li><a href=""></li>
-    
-  </ul>
+ </ul>
 
 
 </details>
@@ -256,8 +254,7 @@
     <li><a href=""></li>
     <li><a href=""></li>
     <li><a href=""></li>
-    
-  </ul>
+</ul>
 
 
 </details>
@@ -305,8 +302,7 @@
     <li><a href=""></li>
     <li><a href=""></li>
     <li><a href=""></li>
-    
-  </ul>
+</ul>
 
 
 </details>

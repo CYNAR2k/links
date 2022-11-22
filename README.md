@@ -3,7 +3,6 @@
 </p>
 
 ## Table Of Contents
-- [Windows](https://cynar2k.github.io/links/#windows)
 - [Programs](https://cynar2k.github.io/links/#programs)
 - [Benchmarks-etc](https://cynar2k.github.io/links/#benchmarks-etc)
 - [Reviews](https://cynar2k.github.io/links/#reviews)
@@ -28,15 +27,43 @@
     <li><a href="https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html">Windows 10: A guide to the updates</a></li>
 </ul>  
 
-</details>
+  </details>
+
+
+<details>
+
+<summary>Windows</summary>
+<br>
+
+  <ul>
+    <li><a href="https://www.microsoft.com/en-us/software-download">Windows Official ISO Website</a></li>
+    <li><a href="https://windowsaddict.ml/readme-genuine-installation-media.html">Genuine Installation Media</a></li>
+    <li><a href="https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-iso-download-tool">HEIDOC</a></li>
+    <li><a href="https://tb.rg-adguard.net/public.php">TECH BENCH</a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    
+</ul>  
+ 
+  </details>
+
+
 
 
 ## Windows
 
-- [Windows Official ISO Website](https://www.microsoft.com/en-us/software-download)
-- [Genuine Installation Media](https://windowsaddict.ml/readme-genuine-installation-media.html)
-- [HEIDOC](https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-iso-download-tool)
-- [TECH BENCH](https://tb.rg-adguard.net/public.php)
+- [W]()
+- []()
+- []()
+- [](
 - [THE EYE](https://the-eye.eu/public/MSDN/)
 - [UNIVERSAL MEDIA CREATION TOOL](https://www.majorgeeks.com/files/details/universal_mediacreationtool.html)
 - [UNIFIED UPDATE PLATFORM](https://uup.rg-adguard.net/) / [DUMP](https://uupdump.net/)

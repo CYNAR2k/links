@@ -6,7 +6,7 @@
 
 <details>
 
-<summary>Guides</summary>
+<summary>GUIDES</summary>
 <br>
 
 <ul>
@@ -28,7 +28,7 @@
 
 <details>
 
-<summary>Windows</summary>
+<summary>WINDOWS</summary>
 <br>
 
   <ul>
@@ -65,7 +65,7 @@
   
 <details>
 
-<summary>Programs</summary>
+<summary>SOFTWARE</summary>
 <br>
 
  <ul>
@@ -89,7 +89,7 @@
     <li><a href="https://www.libreoffice.org/">LIBREOFFICE</li>
     <li><a href="https://parsec.app/">PARSEC -  Remote desktop</li>
     <li><a href="https://www.workspacer.org/">WORKSPACER - A tiling window manager for Windows 10</li>
-    <li><a href="https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns"></a>AUTORUNS - Startup monitor</li>
+    <li><a href="https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns">AUTORUNS - Startup monitor</li>
     <li><a href="https://ninite.com/">NINITE - Install and Update All Your Programs at Once</li>
     <li><a href="https://github.com/abbodi1406/vcredist">VISUAL C++ - All-in-One</li>
     <li><a href="https://github.com/Codeusa/SteamCleaner">STEAM CLEANER</li>

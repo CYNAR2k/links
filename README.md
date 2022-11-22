@@ -62,15 +62,13 @@
  
   </details>
   
-  
-  
 <details>
 
 <summary>Programs</summary>
 <br>
 
  <ul>
-    <li><a href=""></li>
+    <li><a href="https://www.7-zip.org/">7-ZIP - A file archiver, better than winrar</li>
     <li><a href=""></li>
     <li><a href=""></li>
     <li><a href=""></li>
@@ -99,7 +97,7 @@
 
 ## Programs
 
-- [7-ZIP - A file archiver, better than winrar](https://www.7-zip.org/)
+- []()
 - [Geek Uninstaller - it's better than the windows one](https://geekuninstaller.com/)
 - [Snappy Driver Installer Origin - Get all your pc drivers](https://www.snappy-driver-installer.org/)
 - [VMWARE WORKSTATION 16 PRO](https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html)  `KEY: ZF3R0-FHED2-M80TY-8QYGC-NPKYF`

@@ -56,7 +56,8 @@
     <li><a href="https://www.allkeyshop.com/blog/catalogue/search-windows/">Buy Windows Keys</a></li>
     <li><a href="https://github.com/kkkgo/KMS_VL_ALL">Activate windows for free 1</a></li>
     <li><a href="https://github.com/massgravel/Microsoft-Activation-Scripts">Activate windows for free 2</a></li>
-    <li><a href=""></a></li>
+    <li><a href="https://www.ventoy.net/en/index.html"></a>VENTOY - Bootable USB</li>
+    <li><a href="http://rufus.ie/en/">Rufus - Bootable USB</a></li>
     
 </ul>  
  
@@ -69,19 +70,38 @@
 
  <ul>
     <li><a href="https://www.7-zip.org/">7-ZIP - A file archiver, better than winrar</a></li>
+    <li><a href="https://geekuninstaller.com/"></a>Geek Uninstaller - it's better than the windows one</li>
+    <li><a href="https://www.snappy-driver-installer.org/"></a></li>
+    <li><a href="">Snappy Driver Installer Origin - Get all your pc drivers</a></li>
+    <li><a href="https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html"></a>VMWARE WORKSTATION 16 PRO</li> `KEY: ZF3R0-FHED2-M80TY-8QYGC-NPKYF`
+    <li><a href="https://github.com/Open-Shell/Open-Shell-Menu"></a>OpenShell - Open Source Windows Start Menu Replace</li>
+    <li><a href="https://www.startisback.com/"></a>StartIsBack - Windows Start Menu Replace</li>
+    <li><a href="https://www.nirsoft.net/utils/registry_changes_view.html/">REGISTRY CHANGES VIEW - View registry modifications</a></li>
+    <li><a href="https://www.voidtools.com/"></a>EVERYTHING - Windows search replace</li>
+    <li><a href="https://forums.guru3d.com/threads/nvslimmer-nvidia-driver-slimming-utility.423072/"></a>NVSLIMMER - Debloat Nvidia Drivers</li>
+    <li><a href="https://www.techpowerup.com/download/techpowerup-nvcleanstall">NVCLEANSTALL - Debloat Nvidia Drivers</a></li>
+    <li><a href="https://winaero.com/"></a>WIN AERO - Basic application to tweak windows</li>
+    <li><a href="https://github.com/M2Team/NSudo">NSUDO - System Administration Toolkit</a></li>
+    <li><a href="https://www.sordum.org/9416/powerrun-v1-4-run-with-highest-privileges/"></a>POWER RUN - System Administration Toolkit</li>
+    <li><a href="https://notepad-plus-plus.org/downloads/"></a>NOTEPAD++ - Better than windows stock notepad</li>
+    <li><a href="https://forums.guru3d.com/threads/windows-power-plan-settings-explorer-utility.416058/">POWER SETTINGS EXPLORER - See all power plan settings</a></li>
+    <li><a href="https://www.wagnardsoft.com/display-driver-uninstaller-ddu-">DISPLAY DRIVER UNINSTALLER</a></li>
+    <li><a href="https://www.qbittorrent.org/download.php">qBITTORRENT</a></li>
+    <li><a href="https://www.libreoffice.org/"></a>LIBREOFFICE</li>
+    <li><a href="https://parsec.app/"></a>PARSEC -  Remote desktop</li>
+    <li><a href="https://www.workspacer.org/"></a>WORKSPACER - A tiling window manager for Windows 10</li>
+    <li><a href="https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns"></a>AUTORUNS - Startup monitor</li>
     <li><a href=""></a></li>
-   <li><a href=""></a></li>
-   <li><a href=""></a></li>
-   <li><a href=""></a></li>
-   <li><a href=""></a></li>
-   <li><a href=""></a></li>
-   <li><a href=""></a></li>
-   <li><a href=""></a></li>
-   <li><a href=""></a></li>
-   <li><a href=""></a></li>
-   <li><a href=""></a></li>
-   <li><a href=""></a></li>
-   <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
     
   </ul>
 
@@ -92,28 +112,9 @@
 ## Programs
 
 - []()
-- [Geek Uninstaller - it's better than the windows one](https://geekuninstaller.com/)
-- [Snappy Driver Installer Origin - Get all your pc drivers](https://www.snappy-driver-installer.org/)
-- [VMWARE WORKSTATION 16 PRO](https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html)  `KEY: ZF3R0-FHED2-M80TY-8QYGC-NPKYF`
-- [OpenShell - Open Source Windows Start Menu Replace](https://github.com/Open-Shell/Open-Shell-Menu)
-- [StartIsBack - Windows Start Menu Replace](https://www.startisback.com/)
-- [REGISTRY CHANGES VIEW - View registry modifications](https://www.nirsoft.net/utils/registry_changes_view.html/)
-- [EVERYTHING - Windows search replace](https://www.voidtools.com/)
-- [NVSLIMMER - Debloat Nvidia Drivers](https://forums.guru3d.com/threads/nvslimmer-nvidia-driver-slimming-utility.423072/)
-- [NVCLEANSTALL - Debloat Nvidia Drivers](https://www.techpowerup.com/download/techpowerup-nvcleanstall)
-- [WIN AERO - Basic application to tweak windows](https://winaero.com/)
-- [NSUDO - System Administration Toolkit](https://github.com/M2Team/NSudo)
-- [POWER RUN - System Administration Toolkit](https://www.sordum.org/9416/powerrun-v1-4-run-with-highest-privileges/)
-- [NOTEPAD++ - Better than windows stock notepad](https://notepad-plus-plus.org/downloads/)
-- [POWER SETTINGS EXPLORER - See all power plan settings](https://forums.guru3d.com/threads/windows-power-plan-settings-explorer-utility.416058/)
-- [DISPLAY DRIVER UNINSTALLER](https://www.wagnardsoft.com/display-driver-uninstaller-ddu-)
-- [qBITTORRENT](https://www.qbittorrent.org/download.php)
-- [LIBREOFFICE](https://www.libreoffice.org/)
-- [MOUSE TESTER](https://www.overclock.net/threads/mousetester-software-reloaded.1590569/)
-- [PARSEC](https://parsec.app/)
-- [WORKSPACER](https://www.workspacer.org/)
-- [AUTORUNS](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns)
-- [VENTOY](https://github.com/ventoy/Ventoy)
+- []()
+- []()
+- 
 - [NINITE](https://ninite.com/)
 - [VISUAL C++](https://github.com/abbodi1406/vcredist)
 - [STEAM CLEANER](https://github.com/Codeusa/SteamCleaner)
@@ -196,6 +197,7 @@
 - [Taiphoon Burner](http://www.softnology.biz/files.html)
 - [Prime95](https://prime95.en.lo4d.com/windows)
 - [CS:GO Benchmark](https://github.com/samisalreadytaken/csgo-benchmark)
+- [MOUSE TESTER](https://www.overclock.net/threads/mousetester-software-reloaded.1590569/)
 
 
 <details>

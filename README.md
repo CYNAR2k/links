@@ -6,7 +6,7 @@
 
 <details>
 
-<summary><b>GUIDES</b></summary>
+  <summary><b>GUIDES</b></summary>
 <br>
 
 <ul>
@@ -28,7 +28,7 @@
 
 <details>
 
-<summary>WINDOWS</summary>
+  <summary><b>WINDOWS</b></summary>
 <br>
 
   <ul>
@@ -66,7 +66,7 @@
   
 <details>
 
-<summary>SOFTWARE</summary>
+  <summary><b>SOFTWARE</b></summary>
 <br>
 
  <ul>
@@ -77,7 +77,7 @@
       
     <li><a href="https://www.snappy-driver-installer.org/">Snappy Driver Installer Origin - Get all your pc drivers</a></li>
       
-    <li><a href="https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html">VMWARE WORKSTATION 16 PRO</a></li> `KEY: ZF3R0-FHED2-M80TY-8QYGC-NPKYF`
+    <li><a href="https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html">VMWARE WORKSTATION 16 PRO</a></li> <i>KEY: ZF3R0-FHED2-M80TY-8QYGC-NPKYF</i>
       
     <li><a href="https://github.com/Open-Shell/Open-Shell-Menu">OpenShell - Open Source Windows Start Menu Replace</a></li>
       

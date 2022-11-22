@@ -3,10 +3,6 @@
 </p>
 
 ## Table Of Contents
-- [Programs](https://cynar2k.github.io/links/#programs)
-- [Benchmarks-etc](https://cynar2k.github.io/links/#benchmarks-etc)
-- [Reviews](https://cynar2k.github.io/links/#reviews)
-- [Websites](https://cynar2k.github.io/links/#websites)
 
 <details>
 

@@ -8,7 +8,7 @@
 - [GUIDES](https://github.com/CYNAR2k/link-z/#guides)
 - [WINDOWS](https://github.com/CYNAR2k/link-z/#windows)
 - [SOFTWARE](https://github.com/CYNAR2k/link-z/#programs)
-- [BENCHMARKS-TOOLS](https://github.com/CYNAR2k/link-z/#benchmarks-etc)
+- [BENCHMARKS-TOOLS](https://github.com/CYNAR2k/link-z/#benchmarks-tools)
 - [REVIEWS](https://github.com/CYNAR2k/link-z/#reviews)
 - [WEBSITES](https://github.com/CYNAR2k/link-z/#websites)
 

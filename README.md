@@ -4,8 +4,8 @@
 
 
 
-## Table Of Contents
-- [GUIDES](https://github.com/CYNAR2k/link-z/##guides)
+# Table Of Contents
+- [GUIDES](https://github.com/CYNAR2k/link-z/#guides)
 - [WINDOWS](https://github.com/CYNAR2k/link-z/#windows)
 - [SOFTWARE](https://github.com/CYNAR2k/link-z/#programs)
 - [BENCHMARKS-TOOLS](https://github.com/CYNAR2k/link-z/#benchmarks-etc)
@@ -13,7 +13,7 @@
 - [WEBSITES](https://github.com/CYNAR2k/link-z/#websites)
 
 
-## GUIDES
+# GUIDES
 
 - [EVA - Windows oriented performance, privacy and latency tuning guide](https://github.com/amitxv/EVA)
 - [Latency Guide by Calypto](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4)
@@ -32,7 +32,7 @@
 **[`^        back to top        ^`](#table-of-contents)**
 
 
-## WINDOWS
+# WINDOWS
 
 - [Windows Official ISO Website](https://www.microsoft.com/en-us/software-download)
 - [Genuine Installation Media](https://windowsaddict.ml/readme-genuine-installation-media.html)
@@ -57,7 +57,7 @@
 
 **[`^        back to top        ^`](#table-of-contents)**
 
-## SOFTWARE
+# SOFTWARE
 
 - [7-ZIP - A file archiver, better than winrar](https://www.7-zip.org/)
 - [GEEK UNINSTALLER - it's better than the windows one](https://geekuninstaller.com/)
@@ -105,7 +105,7 @@
 
 **[`^        back to top        ^`](#table-of-contents)**
 
-## Benchmarks-etc
+# BENCHMARK-TOOLS
 
 - [HWiNFO](https://www.hwinfo.com/)
 - [FRAME VIEW](https://www.nvidia.com/en-eu/geforce/technologies/frameview/)
@@ -141,7 +141,7 @@
 
 **[`^        back to top        ^`](#table-of-contents)**
 
-# Reviews
+# REVIEWS
 
 - [REVIEWS AND RATINGS](https://www.rtings.com/)
 - [GAMER NEXUS](https://www.gamersnexus.net/)
@@ -161,7 +161,7 @@
 
 **[`^        back to top        ^`](#table-of-contents)**
 
-## Websites
+# WEBSITES
 
 - [MAJOR GEEKS](https://www.majorgeeks.com/)
 - [HAGGLEZON - Compare all amazon prices](https://www.hagglezon.com/)

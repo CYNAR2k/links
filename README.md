@@ -127,7 +127,7 @@
 - [LINPACK XTREME](https://www.techpowerup.com/download/linpack-xtreme/)
 - [GEEK BENCH](https://www.geekbench.com/index.html)
 - [SUPER PI](https://www.techpowerup.com/download/super-pi/)
-- [Y-CRUNCHER](hhttp://www.numberworld.org/y-cruncher/)
+- [Y-CRUNCHER](https://www.numberworld.org/y-cruncher/)
 - [PRIME 95](https://www.techpowerup.com/download/prime95/)
 - [OCCT](https://www.ocbase.com/)
 - [TAIPHOON BURNER](http://www.softnology.biz/files.html)

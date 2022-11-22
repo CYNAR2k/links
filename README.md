@@ -56,7 +56,7 @@
     <li><a href="https://www.allkeyshop.com/blog/catalogue/search-windows/">Buy Windows Keys</a></li>
     <li><a href="https://github.com/kkkgo/KMS_VL_ALL">Activate windows for free 1</a></li>
     <li><a href="https://github.com/massgravel/Microsoft-Activation-Scripts">Activate windows for free 2</a></li>
-    <li><a href="https://www.ventoy.net/en/index.html"></a>VENTOY - Bootable USB</li>
+    <li><a href="https://www.ventoy.net/en/index.html">VENTOY - Bootable USB</li>
     <li><a href="http://rufus.ie/en/">Rufus - Bootable USB</a></li>
     
 </ul>  
@@ -70,38 +70,37 @@
 
  <ul>
     <li><a href="https://www.7-zip.org/">7-ZIP - A file archiver, better than winrar</a></li>
-    <li><a href="https://geekuninstaller.com/"></a>Geek Uninstaller - it's better than the windows one</li>
-    <li><a href="https://www.snappy-driver-installer.org/"></a></li>
-    <li><a href="">Snappy Driver Installer Origin - Get all your pc drivers</a></li>
-    <li><a href="https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html"></a>VMWARE WORKSTATION 16 PRO</li> `KEY: ZF3R0-FHED2-M80TY-8QYGC-NPKYF`
-    <li><a href="https://github.com/Open-Shell/Open-Shell-Menu"></a>OpenShell - Open Source Windows Start Menu Replace</li>
-    <li><a href="https://www.startisback.com/"></a>StartIsBack - Windows Start Menu Replace</li>
+    <li><a href="https://geekuninstaller.com/">Geek Uninstaller - it's better than the windows one</li>
+    <li><a href="https://www.snappy-driver-installer.org/">Snappy Driver Installer Origin - Get all your pc drivers</li>
+    <li><a href="https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html">VMWARE WORKSTATION 16 PRO</li> `KEY: ZF3R0-FHED2-M80TY-8QYGC-NPKYF`
+    <li><a href="https://github.com/Open-Shell/Open-Shell-Menu">OpenShell - Open Source Windows Start Menu Replace</li>
+    <li><a href="https://www.startisback.com/">StartIsBack - Windows Start Menu Replace</li>
     <li><a href="https://www.nirsoft.net/utils/registry_changes_view.html/">REGISTRY CHANGES VIEW - View registry modifications</a></li>
-    <li><a href="https://www.voidtools.com/"></a>EVERYTHING - Windows search replace</li>
-    <li><a href="https://forums.guru3d.com/threads/nvslimmer-nvidia-driver-slimming-utility.423072/"></a>NVSLIMMER - Debloat Nvidia Drivers</li>
+    <li><a href="https://www.voidtools.com/">EVERYTHING - Windows search replace</li>
+    <li><a href="https://forums.guru3d.com/threads/nvslimmer-nvidia-driver-slimming-utility.423072/">NVSLIMMER - Debloat Nvidia Drivers</li>
     <li><a href="https://www.techpowerup.com/download/techpowerup-nvcleanstall">NVCLEANSTALL - Debloat Nvidia Drivers</a></li>
-    <li><a href="https://winaero.com/"></a>WIN AERO - Basic application to tweak windows</li>
+    <li><a href="https://winaero.com/">WIN AERO - Basic application to tweak windows</li>
     <li><a href="https://github.com/M2Team/NSudo">NSUDO - System Administration Toolkit</a></li>
-    <li><a href="https://www.sordum.org/9416/powerrun-v1-4-run-with-highest-privileges/"></a>POWER RUN - System Administration Toolkit</li>
-    <li><a href="https://notepad-plus-plus.org/downloads/"></a>NOTEPAD++ - Better than windows stock notepad</li>
+    <li><a href="https://www.sordum.org/9416/powerrun-v1-4-run-with-highest-privileges/">POWER RUN - System Administration Toolkit</li>
+    <li><a href="https://notepad-plus-plus.org/downloads/">NOTEPAD++ - Better than windows stock notepad</li>
     <li><a href="https://forums.guru3d.com/threads/windows-power-plan-settings-explorer-utility.416058/">POWER SETTINGS EXPLORER - See all power plan settings</a></li>
     <li><a href="https://www.wagnardsoft.com/display-driver-uninstaller-ddu-">DISPLAY DRIVER UNINSTALLER</a></li>
     <li><a href="https://www.qbittorrent.org/download.php">qBITTORRENT</a></li>
-    <li><a href="https://www.libreoffice.org/"></a>LIBREOFFICE</li>
-    <li><a href="https://parsec.app/"></a>PARSEC -  Remote desktop</li>
-    <li><a href="https://www.workspacer.org/"></a>WORKSPACER - A tiling window manager for Windows 10</li>
+    <li><a href="https://www.libreoffice.org/">LIBREOFFICE</li>
+    <li><a href="https://parsec.app/">PARSEC -  Remote desktop</li>
+    <li><a href="https://www.workspacer.org/">WORKSPACER - A tiling window manager for Windows 10</li>
     <li><a href="https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns"></a>AUTORUNS - Startup monitor</li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
+    <li><a href="https://ninite.com/">NINITE - Install and Update All Your Programs at Once</li>
+    <li><a href="https://github.com/abbodi1406/vcredist">VISUAL C++ - All-in-One</li>
+    <li><a href="https://github.com/Codeusa/SteamCleaner">STEAM CLEANER</li>
+    <li><a href="https://www.majorgeeks.com/files/details/easybcd.html">EASY BCD - Manage your boot loader</li>
+    <li><a href="https://dmde.com/">DMDE - Disk recovery utility</li>
+    <li><a href="https://www.sordum.org/8478/reg-converter-v1-2/">REG CONVERTER - Convert reg files to bat or vbs</li>
+    <li><a href="https://gitlab.com/CalcProgrammer1/OpenRGB">OPEN RGB - lighting control that doesn't depend on manufacturer software</a></li>
+    <li><a href="https://mechvibes.com/">MECH VIBES - Change the sound of your keyboard into anything</li>
+    <li><a href="https://www.codesector.com/teracopy">TERA COPY - Copy your files faster and more securely</li>
+    <li><a href=""></li>
+    <li><a href=""></li>
     
   </ul>
 
@@ -111,19 +110,6 @@
 
 ## Programs
 
-- []()
-- []()
-- []()
-- 
-- [NINITE](https://ninite.com/)
-- [VISUAL C++](https://github.com/abbodi1406/vcredist)
-- [STEAM CLEANER](https://github.com/Codeusa/SteamCleaner)
-- [EASY BCD](https://www.majorgeeks.com/files/details/easybcd.html)
-- [DMDE](https://dmde.com/)
-- [REG CONVERTER](https://www.sordum.org/8478/reg-converter-v1-2/)
-- [OPEN RGB](https://gitlab.com/CalcProgrammer1/OpenRGB)
-- [MECH VIBES](https://mechvibes.com/download/)
-- [TERA COPY](https://www.codesector.com/teracopy)
 - [WinReducer](https://www.winreducer.net/)
 - [dban](https://dban.org/)
 - [USB TREE VIEW](https://www.uwe-sieber.de/usbtreeview_e.html)

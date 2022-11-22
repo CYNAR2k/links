@@ -63,12 +63,15 @@
  
   </details>
   
+
+  
 <details>
 
 <summary>SOFTWARE</summary>
 <br>
 
  <ul>
+   
     <li><a href="https://www.7-zip.org/">7-ZIP - A file archiver, better than winrar</a></li>
    
     <li><a href="https://geekuninstaller.com/">Geek Uninstaller - it's better than the windows one</li>

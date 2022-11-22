@@ -59,7 +59,7 @@
     <li><a href="https://www.ventoy.net/en/index.html">VENTOY - Bootable USB</li>
     <li><a href="http://rufus.ie/en/">Rufus - Bootable USB</a></li>
 </ul>  
- 
+
   </details>
   
 

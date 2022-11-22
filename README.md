@@ -6,7 +6,7 @@
 
 <details>
 
-<summary>GUIDES</summary>
+<summary><b<GUIDES</b></summary>
 <br>
 
 <ul>

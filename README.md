@@ -38,25 +38,25 @@
     <li><a href="https://tb.rg-adguard.net/public.php">TECH BENCH</a></li>
     <li><a href="https://the-eye.eu/public/MSDN/">THE EYE</a></li>
     <li><a href="https://www.majorgeeks.com/files/details/universal_mediacreationtool.html">UNIVERSAL MEDIA CREATION TOOL</a></li>
-    <li><a href="https://uup.rg-adguard.net/">UNIFIED UPDATE PLATFORM</li>
-    <li><a href="https://uupdump.net/">DUMP</li>
-    <li><a href="https://docs.google.com/spreadsheets/d/14-D4tIlFp9APP0OOvQBRXvfLOYC447UygywenX5LXfo">KICH HOAT BAN QUYEN</li>
-    <li><a href="https://forums.guru3d.com/threads/microsoft-windows-iso-download-tool.407691/">MICROSOFT WINDOWS ISO DOWNLOAD TOOL</li>
+    <li><a href="https://uup.rg-adguard.net/">UNIFIED UPDATE PLATFORM</a></li>
+    <li><a href="https://uupdump.net/">DUMP</a></li>
+    <li><a href="https://docs.google.com/spreadsheets/d/14-D4tIlFp9APP0OOvQBRXvfLOYC447UygywenX5LXfo">KICH HOAT BAN QUYEN</a></li>
+    <li><a href="https://forums.guru3d.com/threads/microsoft-windows-iso-download-tool.407691/">MICROSOFT WINDOWS ISO DOWNLOAD TOOL</a></li>
     <li><a href="https://digitalrivermirror.com/">DIGITAL RIVER - FOR WINDOWS 7</a></li>
-    <li><a href="https://github.com/pbatard/Fido">FIDO - RETAIL WINDOWS ISO DOWNLOAD SCRIPT</li>
-    <li><a href="https://isofiles.bd581e55.workers.dev/">UNTOUCHED WINDOWS ISOS 1</li>
-    <li><a href="https://soft.uclv.edu.cu/Microsoft/">UNTOUCHED WINDOWS ISOS 2</li>
-    <li><a href="https://files.dog/MSDN/">UNTOUCHED WINDOWS ISOS 3</li>
-    <li><a href="https://files.rg-adguard.net/version/f0bd8307-d897-ef77-dbd6-216fefbe94c5?lang=en-us">WINDOWS HASH CHECK</li>
-    <li><a href="https://www.heidoc.net/php/myvsdump.php">WINDOWS HASH CHECK 2</li>
-    <li><a href="https://msdn.su/downloads/operating-systems">WINDOWS HASH CHECK 3</li>
-    <li><a href="https://genuine-iso-verifier.weebly.com">WINDOWS HASH CHECK 4</li>
-    <li><a href="https://ameliorated.info">Debloated windows 10 and open source</li>
-    <li><a href="https://atlasos.net/">AtlasOS - Open Source Windows version designed for gamers. </li>
+    <li><a href="https://github.com/pbatard/Fido">FIDO - RETAIL WINDOWS ISO DOWNLOAD SCRIPT</a></li>
+    <li><a href="https://isofiles.bd581e55.workers.dev/">UNTOUCHED WINDOWS ISOS 1</a></li>
+    <li><a href="https://soft.uclv.edu.cu/Microsoft/">UNTOUCHED WINDOWS ISOS 2</a></li>
+    <li><a href="https://files.dog/MSDN/">UNTOUCHED WINDOWS ISOS 3</a></li>
+    <li><a href="https://files.rg-adguard.net/version/f0bd8307-d897-ef77-dbd6-216fefbe94c5?lang=en-us">WINDOWS HASH CHECK</a></li>
+    <li><a href="https://www.heidoc.net/php/myvsdump.php">WINDOWS HASH CHECK 2</a></li>
+    <li><a href="https://msdn.su/downloads/operating-systems">WINDOWS HASH CHECK 3</a></li>
+    <li><a href="https://genuine-iso-verifier.weebly.com">WINDOWS HASH CHECK 4</a></li>
+    <li><a href="https://ameliorated.info">Debloated windows 10 and open source</a></li>
+    <li><a href="https://atlasos.net/">AtlasOS - Open Source Windows version designed for gamers</a></li>
     <li><a href="https://www.allkeyshop.com/blog/catalogue/search-windows/">Buy Windows Keys</a></li>
-    <li><a href="https://github.com/kkkgo/KMS_VL_ALL">Activate windows for free 1</li>
-    <li><a href="https://github.com/massgravel/Microsoft-Activation-Scripts">Activate windows for free 2</li>
-    <li><a href=""></li>
+    <li><a href="https://github.com/kkkgo/KMS_VL_ALL">Activate windows for free 1</a></li>
+    <li><a href="https://github.com/massgravel/Microsoft-Activation-Scripts">Activate windows for free 2</a></li>
+    <li><a href=""></a></li>
     
 </ul>  
  
@@ -68,26 +68,20 @@
 <br>
 
  <ul>
-    <li><a href="https://www.7-zip.org/">7-ZIP - A file archiver, better than winrar</li>
-    <li><a href=""></li>
-    <li><a href=""></li>
-    <li><a href=""></li>
-    <li><a href=""></li>
-    <li><a href=""></li>
-    <li><a href=""></li>
-    <li><a href=""></li>
-    <li><a href=""></li>
-    <li><a href=""></li>
-    <li><a href=""></li>
-    <li><a href=""></li>
-    <li><a href=""></li>
-    <li><a href=""></li>
-    <li><a href=""></li>
-    <li><a href=""></li>
-    <li><a href=""></li>
-    <li><a href=""></li>
-    <li><a href=""></li>
-    <li><a href=""></li>
+    <li><a href="https://www.7-zip.org/">7-ZIP - A file archiver, better than winrar</a></li>
+    <li><a href=""></a></li>
+   <li><a href=""></a></li>
+   <li><a href=""></a></li>
+   <li><a href=""></a></li>
+   <li><a href=""></a></li>
+   <li><a href=""></a></li>
+   <li><a href=""></a></li>
+   <li><a href=""></a></li>
+   <li><a href=""></a></li>
+   <li><a href=""></a></li>
+   <li><a href=""></a></li>
+   <li><a href=""></a></li>
+   <li><a href=""></a></li>
     
   </ul>
 

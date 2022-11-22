@@ -99,7 +99,7 @@
 - [YouTube Music Desktop App with built-in ad blocker and downloader](https://th-ch.github.io/youtube-music/)
 - [WIN GET UI- A package manager for Winget and Scoop](https://github.com/martinet101/WingetUI) 
 - [YT DLP - Download videos from YouTube](https://github.com/yt-dlp/yt-dlp)
-- SPOTI FLYER - Music Downloader ,supports Spotify, Youtube, Gaana, Jio-Saavn and SoundCloud](https://github.com/Shabinder/SpotiFlyer)
+- [SPOTI FLYER - Music Downloader ,supports Spotify, Youtube, Gaana, Jio-Saavn and SoundCloud](https://github.com/Shabinder/SpotiFlyer)
 - [NTLITE - Customize and create your own Windows image](https://www.ntlite.com/)
 - [WIN REDUCER - Customize and create your own Windows image](https://www.winreducer.net/)
 

@@ -148,6 +148,38 @@
 - [Download videos from YouTube](https://github.com/yt-dlp/yt-dlp)
 - [Music Downloader ,supports Spotify, Youtube, Gaana, Jio-Saavn and SoundCloud](https://github.com/Shabinder/SpotiFlyer)
 
+<details>
+
+<summary>Benchmarks-tools</summary>
+<br>
+
+ <ul>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    <li><a href=""></li>
+    
+  </ul>
+
+
+</details>
+
 ## Benchmarks-etc
 
 - [HWiNFO](https://www.hwinfo.com/)

@@ -80,7 +80,6 @@
 - [WORKSPACER - A tiling window manager for Windows 10](https://www.workspacer.org/)
 - [AUTORUNS - Startup monitor](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns)
 - [NINITE - Install and Update All Your Programs at Once](https://ninite.com/)
-- [NINITE](https://ninite.com/)
 - [VISUAL C++ - All-in-One](https://github.com/abbodi1406/vcredist)
 - [STEAM CLEANER](https://github.com/Codeusa/SteamCleaner)
 - [EASY BCD - Manage your boot loader](https://www.majorgeeks.com/files/details/easybcd.html)

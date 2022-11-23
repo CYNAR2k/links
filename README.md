@@ -39,7 +39,7 @@
 - [TECH BENCH](https://tb.rg-adguard.net/public.php)
 - [THE EYE](https://the-eye.eu/public/MSDN/)
 - [UNIVERSAL MEDIA CREATION TOOL](https://www.majorgeeks.com/files/details/universal_mediacreationtool.html)
-- [UNIFIED UPDATE PLATFORM](https://uup.rg-adguard.net/) ● [DUMP](https://uupdump.net/)
+- [UNIFIED UPDATE PLATFORM](https://uup.rg-adguard.net/) • [DUMP](https://uupdump.net/)
 - [KICH HOAT BAN QUYEN](https://docs.google.com/spreadsheets/d/14-D4tIlFp9APP0OOvQBRXvfLOYC447UygywenX5LXfo/edit#gid=960687212)
 - [MICROSOFT WINDOWS ISO DOWNLOAD TOOL](https://forums.guru3d.com/threads/microsoft-windows-iso-download-tool.407691/)
 - [DIGITAL RIVER - FOR WINDOWS 7](https://digitalrivermirror.com/)

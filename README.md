@@ -49,7 +49,7 @@
 - [Debloated windows 10 and open source](https://ameliorated.info/)
 - [ATLAS OS - Windows version designed for gamers](https://atlasos.net/)
 - [ALLKEYSHOP - Buy windows keys](https://www.allkeyshop.com/blog/catalogue/search-windows/)
-- [ACTIVATE WINDOWS FOR FREE 1](https://github.com/kkkgo/KMS_VL_ALL) / - [ACTIVATE WINDOWS FOR FREE 2](https://github.com/massgravel/Microsoft-Activation-Scripts)
+- [ACTIVATE WINDOWS FOR FREE 1](https://github.com/kkkgo/KMS_VL_ALL) - [ACTIVATE WINDOWS FOR FREE 2](https://github.com/massgravel/Microsoft-Activation-Scripts)
 - [VENTOY](https://github.com/ventoy/Ventoy)
 - [RUFUS - Bootable USB](http://rufus.ie/en/)
 

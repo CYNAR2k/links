@@ -19,15 +19,14 @@
 - [Latency Guide by Calypto](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4)
 - [Nvidia GPU Overclock Guide by Cancerogeno](https://docs.google.com/document/d/14ma-_Os3rNzio85yBemD-YSpF_1z75mZJz1UdzmW8GE)
 - [Guide about G-SYNC](https://blurbusters.com/gsync/gsync101-input-lag-tests-and-settings/)
-- [Hydro's Post Installation Guide](https://docs.google.com/document/d/12wYmVcfuaZj8gdoPtdhj-FyIJoRyeqHf9aeIZwaPTeI/edit)
 - [Keb's Windows 7 UEFI Only install guide](https://docs.google.com/document/d/1sZ8ctpR3azpD9GqYz1KXbdCBjJ31eNCY0G4GT3u3sKI)
-- [Melody's Tweaks](https://sites.google.com/view/melodystweaks/basictweaks)
 - [Ram Overclock Guide](https://github.com/integralfx/MemTestHelper/blob/oc-guide/DDR4%20OC%20Guide.md)
 - [Timecard Windows Tweaking Guide & Research](https://djdallmann.github.io/GamingPCSetup/)
 - [Properly Installing an Nvidia Driver](https://docs.google.com/document/d/17RLekr2-Z2KwbmkTSvq7QKcoC2UDxcq4yS3IWrLYrfg/edit)
 - [Ryzen Grub List by imribiy](https://docs.google.com/spreadsheets/d/1Jw3lfH0uRFXMxnFGdpNfRpVvrQN-MVwaE0HSKoj-Xag)
 - [HDD Surival guide by Depri](https://github.com/DepriFromEarth/hdd-survival-guide)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html)
+- [How to setup Display Scaling](https://www.youtube.com/watch?v=50itBs-sz1w)
 
 **[`^        back to top        ^`](#table-of-contents)**
 

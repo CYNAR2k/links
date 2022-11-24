@@ -98,6 +98,7 @@
 - [SPOTI FLYER - Music Downloader ,supports Spotify, Youtube, Gaana, Jio-Saavn and SoundCloud](https://github.com/Shabinder/SpotiFlyer)
 - [NTLITE - Customize and create your own Windows image](https://www.ntlite.com/)
 - [WIN REDUCER - Customize and create your own Windows image](https://www.winreducer.net/)
+- [NTFS MAC - Write files to Microsoft NTFS drives on your Mac](https://www.paragon-software.com/home/ntfs-mac)
 
 **[`^        back to top        ^`](#table-of-contents)**
 

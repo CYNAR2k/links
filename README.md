@@ -15,10 +15,6 @@
 
 # GUIDES
 
-<details open>
-<summary>Guides 📘</summary>
-<br>
-
 - [EVA - Windows oriented performance, privacy and latency tuning guide](https://github.com/amitxv/EVA)
 - [Latency Guide by Calypto](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4)
 - [Nvidia GPU Overclock Guide by Cancerogeno](https://docs.google.com/document/d/14ma-_Os3rNzio85yBemD-YSpF_1z75mZJz1UdzmW8GE)
@@ -33,8 +29,6 @@
 - [How to setup Display Scaling](https://www.youtube.com/watch?v=50itBs-sz1w)
 
 **[`^        back to top        ^`](#table-of-contents)**
-</details>
-
 
 # WINDOWS
 

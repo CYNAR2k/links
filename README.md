@@ -14,9 +14,6 @@
 
 
 # GUIDES
-<details open>
-<summary>## a</summary>
-<br>
 
 - [EVA - Windows oriented performance, privacy and latency tuning guide](https://github.com/amitxv/EVA)
 - [Latency Guide by Calypto](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4)

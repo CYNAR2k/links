@@ -15,7 +15,7 @@
 
 # GUIDES
 <details open>
-<summary>GUIDES</summary>
+<summary></summary>
 <br>
 
 - [EVA - Windows oriented performance, privacy and latency tuning guide](https://github.com/amitxv/EVA)

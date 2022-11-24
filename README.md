@@ -5,12 +5,12 @@
 
 
 # Table Of Contents
-- [GUIDES](#GUIDES)
-- [WINDOWS](#WINDOWS)
-- [SOFTWARE](#SOFTWARE)
-- [BENCHMARKS-TOOLS](#BENCHMARK-TOOLS)
-- [REVIEWS](#REVIEWS)
-- [WEBSITES](#WEBSITES)
+- [GUIDES](#guides)
+- [WINDOWS](#windows)
+- [SOFTWARE](#software)
+- [BENCHMARKS-TOOLS](#benchmark-tools)
+- [REVIEWS](#reviews)
+- [WEBSITES](#websites)
 
 
 # GUIDES

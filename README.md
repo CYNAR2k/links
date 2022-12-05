@@ -203,5 +203,10 @@
 - [Free MP3 and FLAC 320kpbs Downloads](https://free-mp3-download.net/)
 - [RENTRY - Markdown pastebin service with preview, custom urls and editing](https://rentry.co/)
 - [SNAP DROP - Instantly share images, videos, PDFs, and links with people nearby](https://snapdrop.net/)
+- [COLEMAK CLUB - A free, easy way to learn to touch type custom keyboard layouts](https://gnusenpai.net/colemakclub/)
+- [WHATS THE DATA - A directory of information for you to acknowledge the amount of data that web services gather from you](https://justwhatsthedata.github.io/)
+- [JUST DELETE ME - A directory of direct links to delete your account from web services](https://justdeleteme.xyz/)
+- [LIBREX - A privacy respecting free as in freedom meta search engine for Google and popular torrent sites](https://github.com/hnhx/librex)
+- [BE PARANOID - Privacy stuff related](https://beparanoid.de/)
 
 **[`^        back to top        ^`](#table-of-contents)**

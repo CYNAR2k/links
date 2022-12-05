@@ -27,6 +27,7 @@
 - [HDD Surival guide by Depri](https://github.com/DepriFromEarth/hdd-survival-guide)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html)
 - [How to setup Display Scaling](https://www.youtube.com/watch?v=50itBs-sz1w)
+- [MSI Bios Guide from Nani#7884](https://docs.google.com/document/d/1GitGsm-pdf0DBvZoS5sUP6fRpQ2-LCTBsL-7sB-UVMc)
 
 **[`^        back to top        ^`](#table-of-contents)**
 
@@ -98,7 +99,11 @@
 - [SPOTI FLYER - Music Downloader ,supports Spotify, Youtube, Gaana, Jio-Saavn and SoundCloud](https://github.com/Shabinder/SpotiFlyer)
 - [NTLITE - Customize and create your own Windows image](https://www.ntlite.com/)
 - [WIN REDUCER - Customize and create your own Windows image](https://www.winreducer.net/)
+- [UEFI SEVEN - For newer UEFI class 3 systems that can not boot Windows 7 by default on UEFI](https://github.com/Dir3ctr1x/EzWindSLIC)
+- [EZ WIND SLIC - For piracy of Win 7 Ultimate (it doesn't have KMS) on UEFI systems](https://github.com/Dir3ctr1x/EzWindSLIC)
 - [NTFS MAC - Write files to Microsoft NTFS drives on your Mac](https://www.paragon-software.com/home/ntfs-mac)
+- [BAT TO .EXE](https://www.majorgeeks.com/files/details/bat_to_exe_converter.html)
+- [ONION SHARE - Open source tool that lets you share files, host websites, and chat with friends using the Tor network](https://onionshare.org/)
 
 **[`^        back to top        ^`](#table-of-contents)**
 
@@ -113,6 +118,9 @@
 - [PC BENCHMARK VALIDATION SOFTWARE](https://benchmate.org/)
 - [PASSMARK](https://www.passmark.com/products/performancetest)
 - [AIDA64](https://www.aida64.com/)
+- [INTEL MEMORY LATENCY CHECKER](https://www.intel.com/content/www/us/en/developer/articles/tool/intelr-memory-latency-checker.html)
+- [INTEL MEMORY LATENCY GUI VERSION](https://github.com/FarisR99/IMLCGui)
+- [MICROBENCHMARK GUI - Cache and memory benchmark](https://github.com/clamchowder/MicrobenchmarksGui)
 - [GPU-Z](https://www.techpowerup.com/gpuz/)
 - [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
 - [CRYSTAL DISK INFO](https://crystalmark.info/en/software/crystaldiskinfo)

@@ -28,6 +28,7 @@
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html)
 - [How to setup Display Scaling](https://www.youtube.com/watch?v=50itBs-sz1w)
 - [MSI Bios Guide from Nani#7884](https://docs.google.com/document/d/1GitGsm-pdf0DBvZoS5sUP6fRpQ2-LCTBsL-7sB-UVMc)
+- [AMD CPU Tuning Guide](https://developer.amd.com/wp-content/resources/56745_0.75.pdf)
 
 **[`^        back to top        ^`](#table-of-contents)**
 

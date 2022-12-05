@@ -118,7 +118,7 @@
 - [PC BENCHMARK VALIDATION SOFTWARE](https://benchmate.org/)
 - [PASSMARK](https://www.passmark.com/products/performancetest)
 - [AIDA64](https://www.aida64.com/)
-- [INTEL MEMORY LATENCY CHECKER](https://www.intel.com/content/www/us/en/developer/articles/tool/intelr-memory-latency-checker.html)
+- [INTEL MEMORY LATENCY CHECKER](https://www.intel.com/content/www/us/en/developer/articles/tool/intelr-memory-latency-checker.html)
 - [INTEL MEMORY LATENCY GUI VERSION](https://github.com/FarisR99/IMLCGui)
 - [MICROBENCHMARK GUI - Cache and memory benchmark](https://github.com/clamchowder/MicrobenchmarksGui)
 - [GPU-Z](https://www.techpowerup.com/gpuz/)

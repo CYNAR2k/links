@@ -8,7 +8,7 @@
 - [GUIDES](#guides)
 - [WINDOWS](#windows)
 - [SOFTWARE](#software)
-- [BENCHMARKS-TOOLS](#benchmark-tools)
+- [BENCHMARKS-TOOLS](#benchmark & performance tools)
 - [REVIEWS](#reviews)
 - [WEBSITES](#websites)
 
@@ -108,7 +108,7 @@
 
 **[`^        back to top        ^`](#table-of-contents)**
 
-# BENCHMARK-TOOLS
+# BENCHMARK & PERFORMANCE TOOLS
 
 - [HWiNFO](https://www.hwinfo.com/)
 - [FRAME VIEW](https://www.nvidia.com/en-eu/geforce/technologies/frameview/)
@@ -144,6 +144,7 @@
 - [CS:GO AUTO BENCHMARK](https://github.com/amitxv/csgo-autobenchmark)
 - [AUTO GPU AFFINITY](https://github.com/amitxv/AutoGpuAffinity)
 - [MOUSE TESTER](https://www.overclock.net/threads/mousetester-software-reloaded.1590569/)
+- [UEFI EDITOR -  Full bios unlocking tool by bored](https://boringboredom.github.io/UEFI-Editor/)
 
 **[`^        back to top        ^`](#table-of-contents)**
 

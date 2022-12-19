@@ -61,7 +61,7 @@
 - [7-ZIP - A file archiver, better than winrar](https://www.7-zip.org/)
 - [GEEK UNINSTALLER - it's better than the windows one](https://geekuninstaller.com/)
 - [SNAPPY DRIVER INSTALER ORIGIN - Get all your pc drivers](https://www.snappy-driver-installer.org/)
-- [VMWARE WORKSTATION 16 PRO](https://customerconnect.vmware.com/downloads/info/slug/desktop_end_user_computing/vmware_workstation_pro/16_0)  `KEY: ZF3R0-FHED2-M80TY-8QYGC-NPKYF`
+- [VMWARE WORKSTATION 17 PRO](https://www.vmware.com/products/workstation-pro.html)  `KEY: MC60H-DWHD5-H80U9-6V85M-8280D`
 - [OPENSHELL - Open Source Windows Start Menu Replace](https://github.com/Open-Shell/Open-Shell-Menu)
 - [STARTisBACK - Windows Start Menu Replace](https://www.startisback.com/)
 - [REGISTRY CHANGES VIEW - View registry modifications](https://www.nirsoft.net/utils/registry_changes_view.html/)
